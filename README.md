@@ -4,7 +4,7 @@
 
 ### PROJECT STACK 🏢
 
-### SETUP IS EASY 👇
+### SETUP INSTRUCTIONS 👇
 
 ##### Step 1:
 
