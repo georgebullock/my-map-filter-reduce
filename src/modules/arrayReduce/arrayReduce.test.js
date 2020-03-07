@@ -26,4 +26,32 @@ describe('Describe arrayReduce', () => {
 			)
 		).toBe(25);
 	});
+
+	// Array.map with arrayReduce
+	test('It should return [0, 2, 4, 6, 8, 10]', () => {
+		expect(
+			arrayReduce(
+				numbers,
+				(acc, curr) => {
+					acc.push(curr * 2);
+					return acc;
+				},
+				[]
+			)
+		).toEqual([0, 2, 4, 6, 8, 10]);
+	});
+
+	// Array.filter with arrayReduce
+	test('It should return [0, 2, 4]', () => {
+		expect(
+			arrayReduce(
+				numbers,
+				(acc, curr) => {
+					if (curr % 2 === 0) acc.push(curr);
+					return acc;
+				},
+				[]
+			)
+		).toEqual([0, 2, 4]);
+	});
 });
