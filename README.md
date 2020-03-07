@@ -1,25 +1,15 @@
-# JAVASCRIPT PLAYGROUND
+# MY MAP FILTER REDUCE
 
 ### OVERVIEW
 
 ### PROJECT STACK 🏢
 
-- HTML5 🔥
-- CSS3 via SCSS 🔥
-- ES6+ via Babel 🔥
-- Module Bundling via Webpack 🔥
-- Live Reload via Webpack Dev Server 🔥
-- Formatting via Prettier 🔥
-- Linting via ESLint 🔥
-- Type Checking via Flow 🔥
-- Unit Testing via Jest 🔥
-
-### SETUP IS EASY 👇
+### SETUP INSTRUCTIONS 👇
 
 ##### Step 1:
 
 ```bash
-git clone git@github.com:georgebullock/javascript-playground.git
+git clone git@github.com:georgebullock/my-map-filter-reduce.git
 ```
 
 ##### Step 2:
