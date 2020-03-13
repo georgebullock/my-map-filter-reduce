@@ -1,7 +1,7 @@
 {
-	"name": "javascript-playground",
+	"name": "My Map Filter Reduce",
 	"version": "1.0.0",
-	"description": "JavaScript Playground is a project boilerplate I created for small, static, projects and practicing test-driven development.",
+	"description": "My Map Filter Reduce is an implementation of JavaScript's map, filter, and reduce methods",
 	"main": "index.js",
 	"scripts": {
 		"start": "webpack-dev-server --mode development",
