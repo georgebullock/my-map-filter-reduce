@@ -23,7 +23,7 @@ technologies:
 - Type Checking via Flow
 - Unit Testing via Jest
 
-I added no additional dependencies for My Map Filter Reduce.
+I added no additional dependencies to My Map Filter Reduce.
 
 ### SETUP INSTRUCTIONS 👇
 
